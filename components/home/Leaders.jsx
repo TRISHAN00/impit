@@ -8,7 +8,7 @@ import img from '/public/images/dynamic/message-01.jpg'
 
 const MyComponent = () => {
     return (
-        <StyledComponent className={'leaders-area'}>
+        <StyledComponent className={'leaders-area '}>
             <Container>
                 <Row>
                     <Col sm={4}>
