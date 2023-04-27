@@ -8,7 +8,6 @@ import {NextSeo} from "next-seo";
 import Button from "../components/Button";
 import InnerBanner from "../components/InnerBanner";
 import About from "../components/home/About";
-import Solution from "../components/Solution";
 import Counter from "../components/home/Counter";
 import Whyus from "../components/home/Whyus";
 import Leaders from "../components/home/Leaders";
@@ -35,7 +34,6 @@ const Home = () => {
             />
             <InnerBanner/>
             <About/>
-            <Solution/>
             <Counter/>
             <Whyus/>
             <Leaders/>
