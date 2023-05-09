@@ -78,7 +78,7 @@ const Counter = ({url, title}) => {
                         <Col md={12}>
                             <div className="content-large">
                                 <div className="counter">
-                                    <h3 className={'fade-up'}>
+                                    <h3>
                                         <CountUp start={0} end={4000} duration={1}
                                                  separator=","
                                                  decimals={0}

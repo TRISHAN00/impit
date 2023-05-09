@@ -183,6 +183,33 @@ export default createGlobalStyle`
     }
   }
 
+
+  .pt-200 {
+    padding-top: 200px;
+    @media (max-width: 767px) {
+      padding-top: 60px;
+    }
+  }
+
+  .pb-200 {
+    padding-bottom: 200px;
+    @media (max-width: 767px) {
+      padding-bottom: 60px;
+    }
+  }
+
+  .pt-250 {
+    padding-top: 250px;
+    @media (max-width: 767px) {
+      padding-top: 60px;
+    }
+  }
+  .pb-250 {
+    padding-bottom: 250px;
+    @media (max-width: 767px) {
+      padding-bottom: 60px;
+    }
+  }
   .pb-100 {
     padding-bottom: 100px;
     @media (max-width: 767px) {

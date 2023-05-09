@@ -22,12 +22,12 @@ const ParralaxHome = () => {
         <StyledParralaxHome
             offset={offset}
             background={"#F2F0F0"}
-            className={`about_image_with_text pt-200 pb-200`}
+            className={`about_image_with_text pt-200`}
         >
             <ParallaxProvider>
                 <Container fluid className={"version_one p-0"}>
                     <Row className={"about_image_with_text_wrapper"}>
-                        <Col md={{ span: 5 }} className={"p-0 pr-0"}>
+                        <Col md={5} className={"p-0 pr-0"}>
                             <Parallax className={"parrallax_two"} speed={-10}>
                                 <div className="image_wrapper_whole">
                                     <div className="image_right">
@@ -37,10 +37,10 @@ const ParralaxHome = () => {
                             </Parallax>
                         </Col>
 
-                        <Col md={{ span: 7 }} className={"pr-0 pl-0 right_text_content"}>
+                        <Col md={7} className={"pr-0 pl-0 right_text_content"}>
                             <div className="right_text_content_wrp">
                                 <Title
-                                    margin={"0 0 80px"}
+                                    margin={"0 0 60px"}
                                     text={"Why Us"}
                                     textTransform={'none'}
                                 />
@@ -66,7 +66,6 @@ const ParralaxHome = () => {
 };
 
 const StyledParralaxHome = styled.section`
-  background: ${(props) => props.background || "#E9E9E9"};
   position: relative;
   display: flex;
   height: 100%;
@@ -79,6 +78,9 @@ const StyledParralaxHome = styled.section`
   }
   p {
     color: #F1F0E9;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
   }
 
   .fade-up {
@@ -205,11 +207,15 @@ const StyledParralaxHome = styled.section`
         padding-bottom: 120px;
         background: #ED5333;
         @media (max-width: 767px) {
-          padding-top: 150px;
-          padding-bottom: 0px;
+          padding-top: 155px;
+          padding-bottom: 60px;
           padding-left: 0 !important;
           padding-right: 0 !important;
-          background: transparent;
+          h2 {
+            font-size: 32px;
+            font-weight: 500;
+            line-height: 36px;
+          }
         }
       }
     }
@@ -243,6 +249,9 @@ const StyledParralaxHome = styled.section`
 
   @media (max-width: 767px) {
     padding-top: 0px !important;
+    p {
+      padding-right: 15px;
+    }
     .pr-0 {
       padding-right: 15px !important;
     }
@@ -260,6 +269,9 @@ const StyledParralaxHome = styled.section`
     left: 0;
     right: 0;
     background: rgb(28, 23, 24);
+  }
+  .right_text_content {
+    background: #ED5333;
   }
 `;
 

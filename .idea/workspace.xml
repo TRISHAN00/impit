@@ -4,7 +4,244 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ac723ae-6b23-4a9d-9730-4d86f6096c53" name="Changes" comment="" />
+    <list default="true" id="4ac723ae-6b23-4a9d-9730-4d86f6096c53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/InnerBanner.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Solution.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SubTitle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SubTitle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Title.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Title.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/Counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/Counter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/Leaders.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/Leaders.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/home/Whyus.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/home/Whyus.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/dom7.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/dom7.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/dom7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/dom7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/dom7.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/dom7.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom7/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/angular/src/public-api.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/angular/src/swiper-events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/angular/src/swiper-slide.directive.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/angular/src/swiper.component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/angular/src/swiper.module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/angular/src/utils/get-params.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/angular/src/utils/params-list.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/angular/src/utils/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/angular/src/public-api.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/angular/src/swiper-events.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/angular/src/swiper-slide.directive.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/angular/src/swiper.component.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/angular/src/swiper.module.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/angular/src/utils/get-params.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/angular/src/utils/params-list.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/angular/src/utils/utils.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/swiper-angular.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/esm2020/swiper_angular.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/fesm2015/swiper_angular.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/fesm2015/swiper_angular.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/fesm2020/swiper_angular.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/fesm2020/swiper_angular.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/swiper-angular.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/angular/swiper_angular.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/components-shared/get-changed-params.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/components-shared/get-changed-params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/components-shared/get-params.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/components-shared/get-params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/components-shared/mount-swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/components-shared/mount-swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/components-shared/params-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/components-shared/params-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/components-shared/update-on-virtual-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/components-shared/update-on-virtual-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/components-shared/update-swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/components-shared/update-swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/components-shared/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/components-shared/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/breakpoints/getBreakpoint.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/breakpoints/getBreakpoint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/breakpoints/setBreakpoint.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/breakpoints/setBreakpoint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/check-overflow/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/check-overflow/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/classes/addClasses.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/classes/addClasses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/classes/removeClasses.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/classes/removeClasses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/defaults.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/defaults.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/events-emitter.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/events-emitter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/events/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/events/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/events/onClick.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/events/onClick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/events/onResize.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/events/onResize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/events/onScroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/events/onScroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/events/onTouchEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/events/onTouchEnd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/events/onTouchMove.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/events/onTouchMove.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/events/onTouchStart.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/events/onTouchStart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/grab-cursor/setGrabCursor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/grab-cursor/setGrabCursor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/grab-cursor/unsetGrabCursor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/grab-cursor/unsetGrabCursor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/images/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/images/loadImage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/images/preloadImages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/loop/loopCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/loop/loopCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/loop/loopDestroy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/loop/loopDestroy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/loop/loopFix.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/loop/loopFix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/moduleExtendParams.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/moduleExtendParams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/modules/observer/observer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/modules/observer/observer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/modules/resize/resize.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/modules/resize/resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideNext.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideNext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/slide/slidePrev.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/slide/slidePrev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideTo.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideTo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideToClickedSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideToClickedSlide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideToClosest.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideToClosest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideToLoop.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/slide/slideToLoop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/transition/setTransition.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/transition/setTransition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/transition/transitionEmit.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/transition/transitionEmit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/transition/transitionStart.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/transition/transitionStart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/translate/getTranslate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/translate/getTranslate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/translate/setTranslate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/translate/setTranslate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/translate/translateTo.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/translate/translateTo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateActiveIndex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateActiveIndex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateAutoHeight.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateAutoHeight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateClickedSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateClickedSlide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateProgress.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateProgress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSize.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSlides.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSlides.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSlidesClasses.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSlidesClasses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSlidesOffset.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSlidesOffset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSlidesProgress.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/core/update/updateSlidesProgress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/a11y/a11y.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/a11y/a11y.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/a11y/a11y.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/a11y/a11y.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/a11y/a11y.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/a11y/a11y.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/a11y/a11y.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/a11y/a11y.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/autoplay/autoplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/autoplay/autoplay.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/controller/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/controller/controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/effect-cards/effect-cards.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/effect-cards/effect-cards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/effect-cards/effect-cards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/effect-cards/effect-cards.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/effect-coverflow/effect-coverflow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/effect-coverflow/effect-coverflow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/effect-creative/effect-creative.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/effect-creative/effect-creative.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/effect-cube/effect-cube.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/effect-cube/effect-cube.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/effect-fade/effect-fade.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/effect-fade/effect-fade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/effect-flip/effect-flip.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/effect-flip/effect-flip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/free-mode/free-mode.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/free-mode/free-mode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/grid/grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/grid/grid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/hash-navigation/hash-navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/hash-navigation/hash-navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/history/history.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/history/history.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/keyboard/keyboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/keyboard/keyboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/lazy/lazy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/lazy/lazy.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/lazy/lazy.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/lazy/lazy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/addSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/addSlide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/appendSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/appendSlide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/prependSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/prependSlide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/removeAllSlides.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/removeAllSlides.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/removeSlide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/manipulation/methods/removeSlide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/mousewheel/mousewheel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/mousewheel/mousewheel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/navigation/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/navigation/navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/navigation/navigation.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/navigation/navigation.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/navigation/navigation.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/navigation/navigation.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/navigation/navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/navigation/navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/pagination/pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/pagination/pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/pagination/pagination.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/pagination/pagination.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/pagination/pagination.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/pagination/pagination.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/pagination/pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/pagination/pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/parallax/parallax.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/parallax/parallax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/scrollbar/scrollbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/scrollbar/scrollbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/scrollbar/scrollbar.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/scrollbar/scrollbar.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/scrollbar/scrollbar.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/scrollbar/scrollbar.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/scrollbar/scrollbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/scrollbar/scrollbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/thumbs/thumbs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/thumbs/thumbs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/virtual/virtual.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/virtual/virtual.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/virtual/virtual.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/virtual/virtual.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/virtual/virtual.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/virtual/virtual.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/zoom/zoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/zoom/zoom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/zoom/zoom.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/zoom/zoom.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/zoom/zoom.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/zoom/zoom.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/modules/zoom/zoom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/modules/zoom/zoom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/postinstall.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/react/get-children.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/react/get-children.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/react/loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/react/swiper-react.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/react/swiper-react.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/react/swiper-react.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/react/swiper-react.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/react/swiper-slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/react/swiper-slide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/react/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/react/swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/react/use-isomorphic-layout-effect.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/react/use-isomorphic-layout-effect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/react/virtual.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/react/virtual.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/calc-looped-slides.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/classes-to-selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/classes-to-selector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/create-element-if-not-defined.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/create-element-if-not-defined.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/create-shadow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/create-shadow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/effect-init.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/effect-init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/effect-target.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/effect-target.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/effect-virtual-transition-end.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/effect-virtual-transition-end.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/get-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/get-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/get-device.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/get-device.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/get-support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/get-support.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/shared/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/shared/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/get-children.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/swiper-slide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/swiper-slide.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/swiper-solid.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/swiper-solid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/swiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/swiper.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/solid/virtual.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/svelte/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/svelte/swiper-slide.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/svelte/swiper-svelte.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/svelte/swiper-svelte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/svelte/swiper.svelte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.browser.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.browser.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.browser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.browser.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.browser.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper-bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/swiper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/swiper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/autoplay.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/autoplay.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/controller.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/controller.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-cards.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-cards.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-coverflow.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-coverflow.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-creative.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-creative.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-fade.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-fade.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-flip.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/effect-flip.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/hash-navigation.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/hash-navigation.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/lazy.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/pagination.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/pagination.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/public-api.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/public-api.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/virtual.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/virtual.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/modules/zoom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/modules/zoom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/swiper-class.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/swiper-class.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/swiper-events.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/swiper-events.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/types/swiper-options.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/types/swiper-options.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/vue/get-children.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/vue/get-children.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/vue/loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/vue/swiper-slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/vue/swiper-slide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/vue/swiper-vue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/vue/swiper-vue.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/vue/swiper-vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/vue/swiper-vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/vue/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/vue/swiper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swiper/vue/virtual.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/swiper/vue/virtual.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/dynamic/Board Leader_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/dynamic/Board Leader_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/dynamic/Board Leader_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/dynamic/solution.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/dynamic/solution.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globalStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globalStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,27 +269,36 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="2P0J4fU3A1ypUNW4tcL0UZ5xugi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Office Practice/practice 2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Office Practice/practice 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Office Practice\practice 2\components\services" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +308,12 @@
       <option name="presentableId" value="Default" />
       <updated>1682587879890</updated>
       <workItem from="1682587884893" duration="10024000" />
-      <workItem from="1682606838457" duration="3893000" />
+      <workItem from="1682606838457" duration="4594000" />
+      <workItem from="1682739098461" duration="28016000" />
+      <workItem from="1682827153546" duration="17229000" />
+      <workItem from="1683000665172" duration="14849000" />
+      <workItem from="1683454390642" duration="10213000" />
+      <workItem from="1683620953476" duration="1178000" />
     </task>
     <servers />
   </component>

@@ -13,14 +13,13 @@ const LubeSolution = () => {
         setOffset(document.querySelector(".container").offsetLeft);
     }, []);
     return (
-        <StyledLubeSolution className="lube-testing pt-100 pb-100">
+        <StyledLubeSolution className="lube-testing pt-100 pb-250">
             <Container>
-                <Row>
+
                     <SubTitle text={'About Impit'} />
                     <div className="lube-testing__title">
                         <h2>IMPIT utilizes a vast network of independent USA based vendors who are truly the stimulus force of the business.</h2>
                     </div>
-                </Row>
             </Container>
             <Container fluid className="p-0">
                 <Row className={'no-gutters'}>
@@ -65,6 +64,7 @@ const LubeSolution = () => {
 };
 
 const StyledLubeSolution = styled.section`
+  overflow: hidden;
 
   .lube-testing__img {
     position: relative;
@@ -76,12 +76,12 @@ const StyledLubeSolution = styled.section`
     }
 
     &__box {
-      width: 50%;
+      width: 60%;
       position: absolute;
       bottom: -50px;
 
       &__inner {
-        padding-top: calc(255 / 400 * 100%);
+        padding-top: calc(192 / 400 * 100%);
         position: relative;
         background-color: ${hover};
 
@@ -109,7 +109,7 @@ const StyledLubeSolution = styled.section`
       }
     }
   }
-  
+
   .lube-testing__title {
     h2 {
       margin-bottom: 60px;
@@ -120,7 +120,7 @@ const StyledLubeSolution = styled.section`
   }
 
   .lube-testing__text {
-    justify-content: center;
+    justify-content: start;
     display: flex;
     flex-direction: column;
 
@@ -155,7 +155,28 @@ const StyledLubeSolution = styled.section`
   }
 
   @media (max-width: 767px) {
-    padding-bottom: 75px;
+    padding-bottom: 120px;
+    .lube-testing__img__box__inner {
+      padding-top: calc(183 / 345 * 100%);
+
+      h2 {
+        font-size: 20px;
+        line-height: 24px;
+      }
+    }
+
+
+    h3 {
+      margin-bottom: 40px;
+    }
+
+    .lube-testing__title h2 {
+      margin-bottom: 60px;
+      font-size: 24px;
+      line-height: 28px;
+      margin-bottom: 40px;
+    }
+
     .col-sm-5,
     .col-sm-6 {
       min-width: 100%;
@@ -163,13 +184,17 @@ const StyledLubeSolution = styled.section`
     }
 
     .lube-testing__img__box {
-      bottom: -150px;
-      width: 70%;
+      bottom: -85px;
+      width: 92%;
     }
 
     .lube-testing__text {
       padding: 0 30px;
-      margin-top: 210px;
+      margin-top: 120px;
+
+      h4 {
+        margin-bottom: 20px;
+      }
     }
   }
 `;

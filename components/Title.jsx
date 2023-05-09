@@ -49,9 +49,15 @@ const StyledTitle = styled.div`
   position: relative;
   width: 100%;
   font-family: ${title};
-  text-transform: ${props => props.textTransform || 'uppercase'};
+  text-transform: ${props => props.textTransform || ''};
   display: flex;
   justify-content: space-between;
+  
+  h2 {
+    font-size: ${p => p.fontSize || '20'}px;
+    font-weight: ${props => props.fontWeight || '600'};
+    line-height ${p => p.lineHeight || '20'}px;
+  }
   
   .small_title{
     font-size: 14px;

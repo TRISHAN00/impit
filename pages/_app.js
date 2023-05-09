@@ -55,6 +55,7 @@ function MyApp({Component, pageProps}) {
             <ToastContainer position="top-right" autoClose={4000} closeOnClick hideProgressBar={true}/>
             <DefaultSeo {...SEO}/>
             <GlobalStyle/>
+            <Menu/>
             <AnimatePresence exitBeforeEnter>
                 <Component key={router?.pathname} {...pageProps} />
             </AnimatePresence>

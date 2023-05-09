@@ -20,7 +20,7 @@ const Title = ({
 
     return (
 
-        <StyledTitle className={`sub-title fade-up`}
+        <StyledTitle className={`sub-title`}
                      fontSize={fontSize}
                      fontWeight={fontWeight}
                      color={color}
@@ -31,7 +31,7 @@ const Title = ({
                      marginMb={marginMb}
                      padding={padding}
                      borderColor={borderColor}>
-            {text ? <h3 className={'fade-up'}>{ReactHtmlParser(text)} </h3> : ''}
+            {text ? <h3 className={''}>{ReactHtmlParser(text)} </h3> : ''}
 
         </StyledTitle>
 
