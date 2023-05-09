@@ -27,25 +27,25 @@ const MyComponent = () => {
                     </Col>
 
                     <Col md={4} className={'leaders__msg'}>
-                        <div className='leaders__msg__img reveal'>
+                        <div className='leaders__msg__img'>
                             <Img src={'/images/dynamic/l1.jpg'}/>
                         </div>
-                        <p className='leaders__msg__name fade-up'>
+                        <p className='leaders__msg__name'>
                             Jhon Smmith
                         </p>
-                        <p className='leaders__msg__designation fade-up'>
+                        <p className='leaders__msg__designation'>
                             CEO
                         </p>
                         <TruncateText longText={'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five...'}/>
                     </Col>
                     <Col md={4} className={'leaders__msg'}>
-                        <div className='leaders__msg__img reveal'>
+                        <div className='leaders__msg__img'>
                             <Img src={'/images/dynamic/l1.jpg'}/>
                         </div>
-                        <p className='leaders__msg__name fade-up'>
+                        <p className='leaders__msg__name'>
                             Jhon Smmith
                         </p>
-                        <p className='leaders__msg__designation fade-up'>
+                        <p className='leaders__msg__designation'>
                             CEO
                         </p>
                         <TruncateText longText={'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five...'}/>

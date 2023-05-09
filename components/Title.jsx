@@ -32,7 +32,7 @@ const Title = ({
                      padding={padding}
                      varient={varient}
                      borderColor={borderColor}>
-            { text ? <h2 className={'fade-up'}>            {ReactHtmlParser(text)} </h2> : '' }
+            { text ? <h2>            {ReactHtmlParser(text)} </h2> : '' }
             {small_text ? <p className={'small_title fade-up'}>{ReactHtmlParser(small_text)}</p> : "" }
 
         </StyledTitle>

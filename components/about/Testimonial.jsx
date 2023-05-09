@@ -117,11 +117,11 @@ const MyComponent = ({background, data, id}) => {
                             </Col>
 
                             <Col sm={6} className={"testimonials__slider__content"}>
-                                <p className={"fade-up"}>{reactHtmlParser('The team I work with is composed of talented and supportive individuals who are always willing to lend a hand when needed. I have learned so much from my colleagues and the management team, and their guidance has helped me to grow both professionally and personally.\n' +
+                                <p>{reactHtmlParser('The team I work with is composed of talented and supportive individuals who are always willing to lend a hand when needed. I have learned so much from my colleagues and the management team, and their guidance has helped me to grow both professionally and personally.\n' +
                                     '\n' +
                                     'I cannot speak highly enough of this company. It has been an absolute pleasure working here for the past three years, and I look forward to many more. If you\'re looking for a supportive and inspiring work environment, I highly recommend this company.')}</p>
-                                <h4 className={"fade-up"}>John Smith</h4>
-                                <p className={"fade-up"}>Issue resolution</p>
+                                <h4>John Smith</h4>
+                                <p>Issue resolution</p>
                             </Col>
                         </div>
                     </SwiperSlide>
@@ -161,16 +161,16 @@ const MyComponent = ({background, data, id}) => {
                             </Col>
 
                             <Col sm={6} className={"testimonials__slider__content"}>
-                                <p className={"fade-up"}>{reactHtmlParser('The team I work with is composed of talented and supportive individuals who are always willing to lend a hand when needed. I have learned so much from my colleagues and the management team, and their guidance has helped me to grow both professionally and personally.\n' +
+                                <p>{reactHtmlParser('The team I work with is composed of talented and supportive individuals who are always willing to lend a hand when needed. I have learned so much from my colleagues and the management team, and their guidance has helped me to grow both professionally and personally.\n' +
                                     '\n' +
                                     'I cannot speak highly enough of this company. It has been an absolute pleasure working here for the past three years, and I look forward to many more. If you\'re looking for a supportive and inspiring work environment, I highly recommend this company.')}</p>
-                                <h4 className={"fade-up"}>John Smith</h4>
-                                <p className={"fade-up"}>Issue resolution</p>
+                                <h4>John Smith</h4>
+                                <p>Issue resolution</p>
                             </Col>
                         </div>
                     </SwiperSlide>
                 </Swiper>
-                <Row className={"slider--nav fade-up"}>
+                <Row className={"slider--nav"}>
                     <Col sm={{span: 6, offset: 6}}>
                         <ul>
                             <li className={"prev_swipper"} ref={prevRef}>

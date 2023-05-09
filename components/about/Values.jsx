@@ -98,8 +98,8 @@ const Integrity = ({data}) => {
                     >
                         <Row>
                             <Col sm="5" className="left-content">
-                                <h3 className={'fade-up'}>Our Values</h3>
-                                <p className={'fade-up'}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab consectetur cumque debitis distinctio eligendi eum laboriosam odio perferendis, sapiente vitae?</p>
+                                <h3>Our Values</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab consectetur cumque debitis distinctio eligendi eum laboriosam odio perferendis, sapiente vitae?</p>
                             </Col>
 
                             <Col sm="7" className="right-content reveal">
@@ -108,7 +108,7 @@ const Integrity = ({data}) => {
                                         src={'/images/dynamic/our-valuse-1.jpg'}
                                         alt=""
                                     />
-                                    <h3 className={'fade-up'}>EQUITY</h3>
+                                    <h3>EQUITY</h3>
                                 </div>
                             </Col>
                         </Row>
@@ -120,8 +120,8 @@ const Integrity = ({data}) => {
                     >
                         <Row>
                             <Col sm="5" className="left-content">
-                                <h3 className={'fade-up'}>Our Values</h3>
-                                <p className={'fade-up'}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab consectetur cumque debitis distinctio eligendi eum laboriosam odio perferendis, sapiente vitae?</p>
+                                <h3>Our Values</h3>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab consectetur cumque debitis distinctio eligendi eum laboriosam odio perferendis, sapiente vitae?</p>
                             </Col>
 
                             <Col sm="7" className="right-content reveal">
@@ -130,7 +130,7 @@ const Integrity = ({data}) => {
                                         src={'/images/dynamic/our-valuse-1.jpg'}
                                         alt=""
                                     />
-                                    <h3 className={'fade-up'}>EQUITY</h3>
+                                    <h3>EQUITY</h3>
                                 </div>
                             </Col>
                         </Row>

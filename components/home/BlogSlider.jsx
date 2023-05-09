@@ -4,17 +4,13 @@ import Title from "../Title";
 import Button from "../Button";
 import { BsChevronLeft, BsChevronRight } from "react-icons/bs";
 import { useEffect, useRef, useState } from "react";
-import { Swiper, SwiperSlide } from "swipernew/react";
-import { Autoplay, Mousewheel, Navigation, Pagination } from "swipernew";
-import "swipernew/css";
-import "swipernew/css/navigation";
-import "swipernew/css/pagination";
-import "swipernew/css/scrollbar";
 import VisibilitySensor from "react-visibility-sensor";
 import Link from "next/link";
 import { Img } from "../Img";
 import { hover } from "../../styles/globalStyleVars";
 import SubTitle from "../SubTitle";
+import {Swiper, SwiperSlide} from "swiper/react";
+import {Autoplay, Mousewheel, Navigation, Pagination} from "swiper";
 
 const RandomSliderV1 = ({ Data, data }) => {
     // SwiperCore.use([Autoplay]);
@@ -124,8 +120,8 @@ const RandomSliderV1 = ({ Data, data }) => {
                         </div>
 
                         <div className="blog-button">
-                            <Button src={"/media-center"} text={"View All"} />
-                            <div className="slider-nav fade-up">
+                            <Button text={'View All'} />
+                            <div className="slider-nav">
                                 <ul>
                                     <li className="hover" ref={leftRef}>
                                         <BsChevronLeft />
@@ -141,7 +137,7 @@ const RandomSliderV1 = ({ Data, data }) => {
             </Container>
 
             <VisibilitySensor offset={{ top: -150 }}>
-                <div className={` fade-up blog-slider__slider-wrap`}>
+                <div className={`blog-slider__slider-wrap`}>
                     <div className="blog-slider__slider-wrap__inner">
                         <Swiper
                             loop={false}
@@ -171,10 +167,9 @@ const RandomSliderV1 = ({ Data, data }) => {
                                 },
                             }}
                             ref={sliderRef}
-                            className="mySwiper"
                         >
                                         <SwiperSlide>
-                                            <div className="blog-single fade-up">
+                                            <div className="blog-single">
                                                 <div className="blog-single__inner">
                                                     <Link href={`#`}>
                                                         <a />
@@ -205,7 +200,7 @@ const RandomSliderV1 = ({ Data, data }) => {
                                             </div>
                                         </SwiperSlide>
                             <SwiperSlide>
-                                <div className="blog-single fade-up">
+                                <div className="blog-single">
                                     <div className="blog-single__inner">
                                         <Link href={`#`}>
                                             <a />
@@ -236,7 +231,7 @@ const RandomSliderV1 = ({ Data, data }) => {
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
-                                <div className="blog-single fade-up">
+                                <div className="blog-single">
                                     <div className="blog-single__inner">
                                         <Link href={`#`}>
                                             <a />
@@ -267,7 +262,7 @@ const RandomSliderV1 = ({ Data, data }) => {
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
-                                <div className="blog-single fade-up">
+                                <div className="blog-single">
                                     <div className="blog-single__inner">
                                         <Link href={`#`}>
                                             <a />

@@ -100,14 +100,14 @@ const Counter = ({url, title}) => {
                                         <div className={'plus'}>+</div>
                                     </h3>
                                 </div>
-                                <p className={'fade-up'}>Customers served and counting</p>
+                                <p>Customers served and counting</p>
                             </div>
                         </Col>
                     </Row>
                     <Row className={'counter-bottom pb-200'}>
                         <Col className={'counter-bottom_single'} md={4}>
                             <div className="counter">
-                                <h4 className={'fade-up'}>
+                                <h4>
                                     <CountUp start={3599} end={10000} duration={1}
                                              separator=","
                                              decimals={''}
@@ -129,12 +129,12 @@ const Counter = ({url, title}) => {
 
                                     </CountUp>
                                 </h4>
-                                <p className={'fade-up'}>Properties Managed</p>
+                                <p>Properties Managed</p>
                             </div>
                         </Col>
                         <Col className={'counter-bottom_single'} md={4}>
                             <div className="counter">
-                                <h4 className={'fade-up'}>
+                                <h4>
                                     <CountUp start={0} end={30} duration={1}
                                              separator=","
                                              decimals={''}
@@ -156,13 +156,13 @@ const Counter = ({url, title}) => {
 
                                     </CountUp>
                                 </h4>
-                                <p className={'fade-up'}>Sub branches around the world</p>
+                                <p>Sub branches around the world</p>
                             </div>
                         </Col>
                         <Col className={'counter-bottom_single'} md={4}>
                             <div className="counter">
-                                <h4 className={'fade-up'}>500+ </h4>
-                                <p className={'fade-up'}>Staffs happily employed</p>
+                                <h4>500+ </h4>
+                                <p>Staffs happily employed</p>
                             </div>
                         </Col>
                     </Row>
