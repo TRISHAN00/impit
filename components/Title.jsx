@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import {text, title, title_ms60} from "../styles/globalStyleVars";
+import {text, title} from "../styles/globalStyleVars";
 import ReactHtmlParser from "react-html-parser";
 
 const Title = ({
@@ -42,7 +42,7 @@ const Title = ({
 
 
 const StyledTitle = styled.div`
-  ${props => props.varient ? props.varient : title_ms60};
+  ${props => props.varient ? props.varient : ''};
   margin: ${props => props.margin || '0px'};
   color: ${props => props.color || text};
   font-weight: ${props => props.fontWeight || '600'};
